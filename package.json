@@ -1,0 +1,22 @@
+{
+  "name": "spicyabandonedcheese",
+  "version": "1.0.0",
+  "description": "mainthing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deBubz/SpicyAbandonedCheese.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deBubz/SpicyAbandonedCheese/issues"
+  },
+  "homepage": "https://github.com/deBubz/SpicyAbandonedCheese#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
